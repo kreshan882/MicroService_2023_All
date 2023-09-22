@@ -12,3 +12,8 @@ git commit -m "first commitk"
 git branch -M main
 git remote add origin https://github.com/kreshan882/MicroService_2023_All.git
 git push -u origin main
+
+
+## roleback local changes
+D:\2_JAVA_MICROSERVICE_ALL\MicroService_2023_All
+git reset --hard

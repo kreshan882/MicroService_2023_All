@@ -6,7 +6,7 @@ git pull https://github.com/kreshan882/MicroService_2023_All.git
 # Upload project
 git init
 git add GitHub_Ms2023All.txt .gitignore
-git add airport-management/
+git add MS1_airport-management/
 
 git commit -m "first commitk"
 git branch -M main

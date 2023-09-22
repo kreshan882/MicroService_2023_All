@@ -1,0 +1,13 @@
+# Download project
+git init
+git pull https://github.com/kreshan882/MicroService_2023_All.git
+
+
+# Upload project
+git init
+git add GitHub_Ms2023All.txt
+
+git commit -m "first commitk"
+git branch -M main
+git remote add origin https://github.com/kreshan882/MicroService_2023_All.git
+git push -u origin main

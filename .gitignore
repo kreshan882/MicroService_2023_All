@@ -1,6 +1,6 @@
 
-!**/airport-management/**/target/
-!**/target/
+### ignore everything under target.
+*/target/**
 
 ### STS eclipes ###
 .apt_generated

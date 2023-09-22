@@ -1,0 +1,17 @@
+
+!**/airport-management/**/target/
+!**/target/
+
+### STS eclipes ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+/.metadata/
+
+### VS Code ###
+.vscode/

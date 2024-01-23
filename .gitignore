@@ -2,6 +2,10 @@
 ### ignore everything under target. ###
 */target/**
 
+MS2_saga-choreography-kafka/common-dtos/target/
+MS2_saga-choreography-kafka/order-service/target/
+MS2_saga-choreography-kafka/payment-service/target/
+
 ### STS eclipes ###
 .apt_generated
 .classpath

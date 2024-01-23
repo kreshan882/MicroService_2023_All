@@ -3,10 +3,12 @@ git init
 git pull https://github.com/kreshan882/MicroService_2023_All.git
 
 
-# Upload project
+# Upload project [Open Git Bash]
+cd D:/2_JAVA_MICROSERVICE_ALL/MicroService_2023_All/
 git init
 git add GitHub_Ms2023All.txt .gitignore
 git add MS1_airport-management/
+git add MS2_saga-choreography-kafka/
 
 git commit -m "first commitk"
 git branch -M main

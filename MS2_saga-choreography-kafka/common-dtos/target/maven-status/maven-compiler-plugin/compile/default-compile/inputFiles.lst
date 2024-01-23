@@ -1,9 +1,0 @@
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\dto\PaymentRequestDto.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\dto\OrderRequestDto.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\CommonsDtoApplication.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\event\OrderStatus.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\event\PaymentStatus.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\event\Event.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\dto\OrderResponseDto.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\event\OrderEvent.java
-D:\2_JAVA_MICROSERVICE_LOCAL\MS2_saga-choreography-kafka\common-dtos\src\main\java\com\javatechie\saga\commons\event\PaymentEvent.java
